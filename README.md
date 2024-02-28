@@ -27,21 +27,21 @@ If tigers had wings I think it would be pretty cool
     He💥/Him💥
     
 🔢 Some of my favorite numbers 🔢
-    INT_MIN
-    -128
-    -1
-    0
-    1
-    10
-    48
-    57
-    65
-    90
-    97
-    122
-    255
-    3006
-    INT_MAX
+        INT_MIN
+        -128
+        -1
+        0
+        1
+        10
+        48
+        57
+        65
+        90
+        97
+        122
+        255
+        3006
+        INT_MAX
 
 
 

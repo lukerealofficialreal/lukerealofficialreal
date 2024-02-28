@@ -20,6 +20,7 @@ If tigers had wings I think it would be pretty cool
 
 
 🦃 How to reach me:
+
    University Email
    Phone
    Show up where I live (bring offerings)

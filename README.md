@@ -5,6 +5,7 @@ If tigers had wings I think it would be pretty cool
 - 🌱 I’m currently learning ...
 
 🪦 The dead project graveyard grows bigger with each passing year 🪦
+
     ♟️ Chess (C++)
        2023 - ???
        Not dead just went missing
@@ -27,6 +28,7 @@ If tigers had wings I think it would be pretty cool
     He💥/Him💥
     
 🔢 Some of my favorite numbers 🔢
+
         INT_MIN
         -128
         -1

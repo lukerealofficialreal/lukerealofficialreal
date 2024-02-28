@@ -26,7 +26,8 @@ If tigers had wings I think it would be pretty cool
         Show up where I live (bring offerings)
   
 🌭 Pronouns:
-    He💥/Him💥
+        
+        He💥/Him💥
     
 🔢 Some of my favorite numbers 🔢
 

@@ -5,8 +5,8 @@ I’m @lukerealofficialreal
 🪦 The dead project graveyard grows bigger with every passing year 🪦
 
     ♟️ Chess (C++)
-       2023 - ???
-       Not dead just went missing
+       2023 - 2024
+       Got Bored, Computer Imploded (If only there was some sort of free, open-source version control system)
     
     🎯 Chess (Java)
        2022 - 2022
